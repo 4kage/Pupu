@@ -1,4 +1,4 @@
-*PuPu K-9*
+# PuPu K-9
 
 Proyecto para universidad
 
